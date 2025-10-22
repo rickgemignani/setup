@@ -1,0 +1,9 @@
+[submodule "MacOs-Setup"]
+	path = MacOs-Setup
+	url = https://github.com/rickgemignani/MacOs-Setup.git
+[submodule "Windows-Setup"]
+	path = Windows-Setup
+	url = https://github.com/rickgemignani/Windows-Setup.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/rickgemignani/dotfiles.git
